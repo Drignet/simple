@@ -1,4 +1,5 @@
 #include "shell.h"
+
 /**
  * inputvalidator - validates input buffer
  * complete is bit flag type to complete.
