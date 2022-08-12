@@ -1,11 +1,13 @@
 #include "shell.h"
 #include "shellvars.h"
+
 /**
  * initsvars - initialize vars
  * @ac: arguemnts intiger
  * @av: string arguments
  * Return: int
  */
+
 int initsvars(int ac, char **av)
 {
 	ShellVar **specialroot = getspecial();
