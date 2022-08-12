@@ -1,5 +1,6 @@
 #include "shell.h"
 #include <stdarg.h>
+
 /**
  * linecount - count lines
  *
@@ -7,6 +8,7 @@
  *
  * Return: count
  */
+
 int linecount(int increment)
 {
 	static int count;
