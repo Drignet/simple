@@ -1,4 +1,5 @@
 #include "shell.h"
+
 /**
  * strtok - tokenizes a string
  * @str: string to tokenize
