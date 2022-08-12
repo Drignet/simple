@@ -4,6 +4,7 @@
  * @cmd: the command line inserted
  * Return: 0 if sucess (always)
  */
+
 int help(char *cmd)
 {
 	char *file;
