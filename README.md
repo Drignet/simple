@@ -1,5 +1,4 @@
 # Simple Shell Project
-
 **A simple Unix command line interpreter**
 <!-- ![shell](/shell.png) -->
 
@@ -154,9 +153,8 @@ ubunto@ubuntu:~/OS/simple_shell$
 No known Bugs.
 
 ## TEAM
-[GitHub/jane]: <https://github.com/jayne-0>
-[GitHub/mariem]: <https://github.com/tecnophille>
-[Twitter/janeizzy240]: <https://twitter.com/janeizzy240>
-[Twitter/Tecnophille]: <https://twitter.com/tecnophille>
+[GitHub/Drig]: <https://github.com/Drignet>
+[GitHub/Peter]: <https://github.com/Pete5145>
+
 
 
