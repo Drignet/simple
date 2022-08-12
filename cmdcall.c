@@ -1,5 +1,4 @@
 #include "shell.h"
-
 /**
  * checkpath - checks the path
  * @av: arguments
