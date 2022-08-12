@@ -1,6 +1,5 @@
 #ifndef ALIASH
 #define ALIASH
-
 /**
  * struct AliasData - struct for alias function
  * @AliasData - name of the struct
