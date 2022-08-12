@@ -72,6 +72,7 @@ int setallenv(char **envin, char *newval)
 		free(envin);
 	return (0);
 }
+
 /**
  * _getenv - get local environment
  * @name: environment variable
@@ -104,6 +105,7 @@ char *_getenv(char *name)
 	}
 	return (name);
 }
+
 /**
  * _setenv - set environment for new value
  * @name: name of variable
