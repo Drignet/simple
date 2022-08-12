@@ -1,6 +1,5 @@
 #ifndef HISTORY_H
 #define HISTORY_H
-
 /**
  * struct HistList - singly linked list
  * @cmd: command line entered
@@ -8,7 +7,6 @@
  * Description: singly linked list node structure for History 
  * for Holberton project
  */
-
 typedef struct HistList
 {
 	char *cmd;
