@@ -1,9 +1,11 @@
 #include "shell.h"
+
 /**
  * parsesetsvar - parse set shell vars, returns new buf after var setting
  * @buf: buffer
  * Return: string
  */
+
 char *parsesetsvar(char *buf)
 {
 	int haseq;
