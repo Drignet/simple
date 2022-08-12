@@ -6,7 +6,6 @@ char ***getenviron();
 ShellVar **getspecial();
 ShellVar **getvars();
 AliasData **getalist();
-
 /**
  * exitcleanup - cleans up various vars before exiting
  * @av: argument list to free (if any)
